@@ -40,7 +40,7 @@ Um framework não oferece apenas funcionalidades, mas também uma arquitetura pa
 * LoopBack: Framework para criar APIs e microserviços com Node.js
 
 ## 📋 Concluindo
-"Normalmente as bibliotecas são usadas pelos nossos códigos, enquanto os frameworks é quem costumam utilizar os nossos códigos."
+Normalmente as bibliotecas são usadas pelos nossos códigos, enquanto os frameworks é quem costumam utilizar os nossos códigos.
 
 ## 📌 Referências
 https://www.dio.me/articles/biblioteca-vs-framework
